@@ -1,0 +1,1 @@
+We need to find an optimal operating point for MRAM from both cell-level and system-level
